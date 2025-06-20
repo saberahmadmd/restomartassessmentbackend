@@ -1,4 +1,3 @@
-// src/data-source.js (or wherever your DataSource is)
 import "reflect-metadata";
 import { DataSource } from "typeorm";
 import { Task } from "./entity/Task.js";
