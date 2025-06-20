@@ -1,4 +1,3 @@
-// src/entity/Task.js
 import { EntitySchema } from "typeorm";
 
 export const Task = new EntitySchema({
